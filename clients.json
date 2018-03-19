@@ -1,0 +1,38 @@
+[
+      {
+        "id": "123",
+		"firstname": "John",
+        "lastname": "Smith",
+        "dob": "1989-12-25T00:00:00.000Z",
+		"height": "7′ 1\"",
+		"weight": "170",
+		"gender": "Male"
+      },
+      {
+		"id": "345",
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "dob": "1990-07-04T00:00:00.000Z",
+		"height": "5′ 5\"",
+		"weight": "130",
+		"gender": "Female"
+      },
+      {
+		"id": "678",
+        "firstname": "Fred",
+        "lastname": "Smith",
+        "dob": "1980-01-01T00:00:00.000Z",
+		"height": "6′ 5\"",
+		"weight": "230",
+		"gender": "Male"
+      },
+	  {
+		"id": "910",
+        "firstname": "Michael",
+        "lastname": "Cohen",
+        "dob": "1972-02-29T00:00:00.000Z",
+		"height": "6′ 0\"",
+		"weight": "200",
+		"gender": "Male"
+      }
+]
